@@ -1,5 +1,5 @@
 <h1>My Skills : </h1>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwindcss,js,react,php,laravel,py,django,mysql" alt="skills"/>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwindcss,js,react,redux,py,django,nodejs,express, mongodb,mysql" alt="skills"/>
 
 
 # 💫 About Me:
