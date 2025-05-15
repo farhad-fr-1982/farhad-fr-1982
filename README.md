@@ -1,5 +1,5 @@
 <h1>My Skills : </h1>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwindcss,js,react,nextjs,nodejs,express,nestjs,mongodb,postgres" alt="skills"/>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwindcss,js,ts,react,nextjs,nodejs,express,nestjs,mongodb,postgres" alt="skills"/>
 
 # 💫 About Me:
 I am a programmer and Web develope <br>I am currently working in kharazmi information technology company (KIT) and BSI bank <br>I am interested JUDO❤️ sport
