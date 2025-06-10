@@ -2,7 +2,7 @@
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwindcss,js,ts,react,nextjs,nodejs,express,nestjs,mongodb,postgres" alt="skills"/>
 
 # 💫 About Me:
-I am a professional web developer and programmer with expertise in designing, implementing, and optimizing web applications. <br>I am currently working at Kharazmi Information Technology Company (KIT) and BSI Bank <br>I have a deep passion for Judo , a sport that combines strength, strategy, and discipline. It not only enhances physical abilities but also fosters respect, perseverance, and mental resilience.
+I am a software developer specializing in web development. <br>I am currently working at Kharazmi Information Technology Company (KIT) and BSI Bank <br>I love Judo; a sport that strengthens power, strategy, and discipline.
 
 
 # 💻 Tech Stack:
