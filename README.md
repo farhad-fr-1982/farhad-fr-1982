@@ -1,44 +1,72 @@
-# 🚀 My Skills
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=007ACC&height=200&section=header&text=Farhad%20Fr&fontSize=80&animation=fadeIn&fontAlignY=35" width="100%" />
+</p>
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,nextjs,nodejs,express,py,django,nestjs,redux,graphql" alt="skills"/>
-</div>
-
----
-
-# 💫 About Me
-I am a **Software Developer** specializing in web development. Currently, I am contributing my expertise at **Kharazmi Information Technology Company (KIT)** and **BSI Bank**.
-
-Beyond the world of code, I am a **Judo** practitioner; a sport that has taught me the importance of **power, strategy, and discipline** — principles I apply to every project I build.
+<h2 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Specialized+in+Web+Dev;Judo+Practitioner+🥋;Strategy+%2B+Discipline" alt="Typing SVG" />
+  </a>
+</h2>
 
 ---
 
-# 💻 Tech Stack
+### 💫 About Me
 <p align="left">
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF6bmZ6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKSjPQCpC7O4H6M/giphy.gif" width="150" align="right" />
+  
+  I am a **Software Developer** focused on building high-performance web applications. Currently, I bring my expertise to **Kharazmi Information Technology Company (KIT)** and **BSI Bank**. 
+  <br><br>
+  🥋 **Philosophy:** In the world of Judo, we use the opponent's force to our advantage. In coding, I use the same **strategy and discipline** to turn complex challenges into elegant solutions.
 </p>
 
 ---
 
-# 📊 GitHub Stats
+### 🚀 My Skills
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,nextjs,nodejs,express,py,django,nestjs,redux,graphql,mysql,mongodb,git,figma&perline=10" />
+</p>
+
+---
+
+### 💻 Detailed Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend-React%20%2F%20Next.js-blue?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Styling-Tailwind%20%2F%20Bootstrap-38B2AC?style=for-the-badge&logo=tailwind-css" />
+  <br>
+  <img src="https://img.shields.io/badge/Backend-Node.js%20%2F%20Django-green?style=for-the-badge&logo=node.js" />
+  <img src="https://img.shields.io/badge/API-GraphQL%20%2F%20REST-E10098?style=for-the-badge&logo=graphql" />
+  <br>
+  <img src="https://img.shields.io/badge/State-Redux%20%2F%20Query-764ABC?style=for-the-badge&logo=redux" />
+  <img src="https://img.shields.io/badge/Realtime-Socket.io-black?style=for-the-badge&logo=socket.io" />
+</p>
+
+---
+
+### 📊 GitHub Analysis
+<p align="center">
+  <ins><b>Current Activity & Languages</b></ins>
+</p>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=farhad-fr-1982&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhad-fr-1982&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="170" />
-  <br />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=farhad-fr-1982&theme=dark&hide_border=false" width="100%" />
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=farhad-fr-1982&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true" height="180" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhad-fr-1982&layout=compact&theme=tokyonight&border_radius=10&hide_border=true" height="180" />
+      </td>
+    </tr>
+  </table>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=farhad-fr-1982&theme=tokyonight&hide_border=true" width="90%" />
 </div>
 
 ---
 
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=farhad-fr-1982&icon=0&color=0" />
-</div>
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=farhad-fr-1982&icon=5&color=4" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=rect&color=007ACC&height=30&section=footer" width="100%" />
+</p>
