@@ -1,7 +1,7 @@
 # 🚀 My Skills
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,nextjs,nodejs,express,py,django,nestjs,redux,graphql" alt="skills"/>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,nextjs,nodejs,express,py,django" alt="skills"/>
 </div>
 
 ---
