@@ -1,6 +1,8 @@
 # 🚀 My Skills
 
-<div align="left"> <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,nextjs,nodejs,express,py,django,mongodb,mysql,postgresql" alt="skills"/> </div>
+<div align="left"> <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,nextjs,nodejs,express,py,django" alt="skills"/> </div>
+<h3>DataBase :</h3>
+<div><img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql"/></div>
 
 ---
 
