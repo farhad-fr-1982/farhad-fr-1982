@@ -34,4 +34,3 @@ Beyond the world of code, I am a **Judo** practitioner; a sport that has taught 
 <div align="center">
   <img src="https://visitcount.itsvg.in/api?id=farhad-fr-1982&icon=0&color=0" />
 </div>
-بدون اینکه تغییری بدی روی پروفایلم برای هر دوقسمت postgsql,mysql,mongodb رو هم اضافه کن
