@@ -17,7 +17,7 @@ Currently working at **Khwarazmi Information Technology Development Company (KIT
 
 ## Back-End
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=python,django,cs,dotnet" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet, python,django" />
 </div>
 
 ## Databases
