@@ -2,7 +2,7 @@
 
 ## Full-Stack Web Developer
 
-Passionate about building scalable and enterprise-level web applications using ASP.NET Core, C#, Python, Django, and modern Front-End technologies.
+Passionate about building scalable and modern web applications using Node.js, Express.js, NestJS, and modern Front-End technologies.
 
 Currently working at **Khwarazmi Information Technology Development Company (KIT)**.
 
@@ -17,7 +17,7 @@ Currently working at **Khwarazmi Information Technology Development Company (KIT
 
 ## Back-End
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,django" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
 </div>
 
 ## Databases
@@ -28,7 +28,7 @@ Currently working at **Khwarazmi Information Technology Development Company (KIT
 
 ## Tools & Technologies
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vscode,visualstudio,pycharm" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vscode" />
 </div>
 
 ---
@@ -36,7 +36,7 @@ Currently working at **Khwarazmi Information Technology Development Company (KIT
 # 💫 About Me
 
 - 💻 Full-Stack Web Developer focused on scalable and modern web applications
-- 🚀 Experienced in developing real-world projects using ASP.NET Core, Django, React, and Next.js
+- 🚀 Experienced in developing real-world projects using Node.js, NestJS, Express.js, React, and Next.js
 - 🎯 Passionate about backend architecture, REST APIs, authentication systems, and clean code
 - 👨‍🏫 Programming Instructor for JavaScript and Python
 - 🥋 Judo practitioner — applying discipline, consistency, and strategic thinking both in sports and software engineering
@@ -45,8 +45,7 @@ Currently working at **Khwarazmi Information Technology Development Company (KIT
 
 # 📈 Current Focus
 
-- Enterprise Backend Development with ASP.NET Core
-- Advanced Backend Development with Django
+- Advanced Backend Development with NestJS
 - Scalable REST API Development
 - Authentication & Authorization Systems
 - Docker & DevOps Fundamentals
