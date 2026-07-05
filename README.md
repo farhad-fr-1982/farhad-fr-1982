@@ -27,27 +27,54 @@ I'm a **Full-Stack Web Developer** passionate about building scalable, modern, a
 
 ## 🛠 Tech Stack
 
-<div align="center">
+<table width="100%">
+<tr>
+<td align="center" valign="top" width="25%">
+<br/>
 
-### 🎨 Front-End
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,nextjs&perline=8" height="70"/>
+**🎨 Front-End**
 
 <br/>
 
-### ⚙️ Back-End
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs&perline=8" height="70"/>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,nextjs&perline=4" height="100"/>
+
+<br/><br/>
+</td>
+<td align="center" valign="top" width="25%">
+<br/>
+
+**⚙️ Back-End**
 
 <br/>
 
-### 🗄 Databases
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql&perline=8" height="70"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs&perline=3" height="100"/>
+
+<br/><br/>
+</td>
+<td align="center" valign="top" width="25%">
+<br/>
+
+**🗄 Databases**
 
 <br/>
 
-### 🧰 Tools & Workflow
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vscode&perline=8" height="70"/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql&perline=3" height="100"/>
 
-</div>
+<br/><br/>
+</td>
+<td align="center" valign="top" width="25%">
+<br/>
+
+**🧰 Tools**
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vscode&perline=3" height="100"/>
+
+<br/><br/>
+</td>
+</tr>
+</table>
 
 ---
 
