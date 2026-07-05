@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Farhad Rezazadeh
+# Farhad Rezazadeh
 
 ### Full-Stack Web Developer | Node.js • NestJS • React • Next.js
 
@@ -27,35 +27,27 @@ I'm a **Full-Stack Web Developer** passionate about building scalable, modern, a
 
 ## 🛠 Tech Stack
 
-<table>
-<tr>
-<td valign="top" width="33%">
+<div align="center">
 
-**Front-End**
+### 🎨 Front-End
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,nextjs&perline=8" height="70"/>
+
 <br/>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,nextjs" />
 
-</td>
-<td valign="top" width="33%">
+### ⚙️ Back-End
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs&perline=8" height="70"/>
 
-**Back-End**
 <br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
 
-</td>
-<td valign="top" width="33%">
+### 🗄 Databases
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql&perline=8" height="70"/>
 
-**Databases**
 <br/>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
 
-</td>
-</tr>
-</table>
+### 🧰 Tools & Workflow
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vscode&perline=8" height="70"/>
 
-**Tools & Workflow**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vscode" />
+</div>
 
 ---
 
