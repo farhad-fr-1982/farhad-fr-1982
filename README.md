@@ -15,7 +15,7 @@
 
 ## 💼 About Me
 
-I'm a **Full-Stack Web Developer** passionate about building scalable, modern, and maintainable web applications. Currently working at **Khwarazmi Information Technology Development Company (KIT)**, where I focus on backend architecture, REST API design, and clean, production-ready code.
+I'm a **Full-Stack Web Developer** passionate about building scalable, modern, and maintainable web applications. Currently working at **Kharazmi Information Technology Development Company (KIT)**, where I focus on backend architecture, REST API design, and clean, production-ready code.
 
 - 🚀 Building real-world applications with **Node.js, NestJS, Express.js, React & Next.js**
 - 🎯 Deep interest in **backend architecture, authentication systems, and API design**
